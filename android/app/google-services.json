@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696867410593",
+    "project_id": "movieflix-99776",
+    "storage_bucket": "movieflix-99776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696867410593:android:ddc3f3feb4177b08d496e0",
+        "android_client_info": {
+          "package_name": "com.movieflix.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696867410593-b6ig8h8o39pfm6cs40du188hl4sg7ui1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movieflix.com",
+            "certificate_hash": "61681e71e7d0b501c56e18be661377d1020d691d"
+          }
+        },
+        {
+          "client_id": "696867410593-kicqe71ivtth5diqu6i86fmc0eatk1g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpXwC1bjFma2kJArQjDcsX2E0ZRITFURA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696867410593-kicqe71ivtth5diqu6i86fmc0eatk1g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

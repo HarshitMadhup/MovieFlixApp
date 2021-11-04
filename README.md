@@ -1,3 +1,3 @@
-MovieFlixApp - Assignment Project for Yellow Class recruitment.
+Make a database of your favourite movies with MovieFlix!
 
-Demo link:- https://youtu.be/TTonSz-vDl4
+Built using Flutter❤️
